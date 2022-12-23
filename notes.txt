@@ -1,0 +1,8 @@
+Data Types:
+undefined, null, boolean, string, symbol, number and object
+
+Varible names are case sensitive in JavaScript
+
+var allowed throughout the code
+let only allowed in the scope
+const can never be changed
