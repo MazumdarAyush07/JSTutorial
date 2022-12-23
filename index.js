@@ -19,9 +19,23 @@ c = "I am a ";
 
 console.log(a);
 a = a + 1;
-b = b + 5;
+b = b - 5;
 c = c + "String!";
 
 console.log(a);
 console.log(b);
 console.log(c);
+
+var myVar = 77;
+myVar++;
+
+var firstName = "Ayush";
+var lastName = "Mazumdar";
+
+fullName = firstName + " " + lastName;
+nameLength = fullName.length;
+
+console.log(nameLength);
+
+firstLetterOfName = fullName[0];
+console.log(firstLetterOfName);

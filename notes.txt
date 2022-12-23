@@ -6,3 +6,9 @@ Varible names are case sensitive in JavaScript
 var allowed throughout the code
 let only allowed in the scope
 const can never be changed
+
+Escape Sequences used as in other languages
+
+Concatenation occurs with + operator 
+
+Similar string operations as JAVA.
