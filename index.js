@@ -39,3 +39,12 @@ console.log(nameLength);
 
 firstLetterOfName = fullName[0];
 console.log(firstLetterOfName);
+
+function wordBlanks(myNoun, myAdjective, myVerb, myAdverb)
+{
+    var result = ""
+
+    return result;
+}
+
+console
